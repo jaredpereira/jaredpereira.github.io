@@ -142,7 +142,6 @@ blockquote {
   opacity: 1;
   }
   @include media-query($on-laptop) {
-      top: 90%;
       left: 90%;
       height: 30px;
       width: 30px;
